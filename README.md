@@ -17,4 +17,4 @@ To address these requirements, the project proceeded with the following steps:
 By following this approach, the project successfully met the requirements of managing user databases and blob storage containers using Microsoft Azure services. The combination of Azure Functions for backend logic and a React frontend for user interaction provided a comprehensive solution for effective database and file management through a web interface. 
 
 
-(Due to organization's confidentiality, the project code and screenshots cannot be uploaded to GitHub.)
+(**Note:** Due to organization's confidentiality, the project code and screenshots cannot be uploaded to GitHub.)
