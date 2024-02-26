@@ -15,3 +15,6 @@ To address these requirements, the project proceeded with the following steps:
 4. **React Frontend Implementation:** A React-based frontend application was developed to provide a user-friendly interface for accessing the CRUD functionalities. The application included a login page for authentication and separate sections for user management and database management, allowing users to perform operations through HTTP requests to the Azure Functions endpoints.
 
 By following this approach, the project successfully met the requirements of managing user databases and blob storage containers using Microsoft Azure services. The combination of Azure Functions for backend logic and a React frontend for user interaction provided a comprehensive solution for effective database and file management through a web interface. 
+
+
+(Due to organization's confidentiality, the project code and screenshots cannot be uploaded to GitHub.)
